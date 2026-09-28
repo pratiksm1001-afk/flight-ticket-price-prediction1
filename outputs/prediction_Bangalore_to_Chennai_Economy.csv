@@ -1,0 +1,7 @@
+Airline,Duration,Stops,Historical Avg,Predicted Price
+SpiceJet,1.1 hrs,zero,2613.310344827586,3569.3088
+Indigo,1.1 hrs,zero,2363.326241134752,3754.0051
+AirAsia,1.0 hrs,zero,2073.0434782608695,4466.308
+GO_FIRST,11.7 hrs,one,5351.945799457994,8585.837
+Vistara,13.6 hrs,one,7911.955282770715,10536.405
+Air_India,15.9 hrs,one,8219.478260869566,13341.927
